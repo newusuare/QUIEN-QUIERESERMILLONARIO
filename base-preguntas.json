@@ -1,0 +1,102 @@
+[
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuesta": "París",
+        "incorrecta1": "Madrid",
+        "incorrecta2": "Roma",
+        "incorrecta3": "Londres",
+        "imagen": "https://www.sitographics.com/enciclog/banderas/europa/image_2012/Francia.gif",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿En qué país se encuentra la Gran Muralla ?",
+        "respuesta": "China",
+        "incorrecta1": "Japón",
+        "incorrecta2": "India",
+        "incorrecta3": "Rusia",
+        "imagen": "https://i0.wp.com/jakochi.media/wp-content/uploads/2021/08/La-gran-muralla-china-880x495.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "respuesta": "Rusia",
+        "incorrecta1": "Canadá",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "China",
+        "imagen": "https://www.planetacurioso.com/wp-content/uploads/2007/01/paises-grandes-mundo.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "respuesta": "China",
+        "incorrecta1": "India",
+        "incorrecta2": "Estados Unidos",
+        "incorrecta3": "Brasil",
+        "imagen" :"https://cdnb.20m.es/yaestaellistoquetodolosabe/files/2014/05/Por-qu%C3%A9-al-planeta-Tierra-tambi%C3%A9n-se-le-llama-%E2%80%98mundo%E2%80%99.jpg", 
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿En qué país se encuentra la ciudad de Praga?",
+        "respuesta": "República Checa",
+        "incorrecta1": "Polonia",
+        "incorrecta2": "Rumania",
+        "incorrecta3": "Austria",
+        "imagen" :"https://www.miviaje.info/wp-content/uploads/2018/06/Viajar-a-Praga.jpeg", 
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es el país más pequeño del mundo?",
+        "respuesta": "Ciudad del Vaticano",
+        "incorrecta1": "Mónaco",
+        "incorrecta2": "San Marino",
+        "incorrecta3": "Malta",
+        "imagen" :"https://cdn.quonomy.com/4325/conversions/29-preguntas-sobre-curiosidades-de-paises-test-cuanto-sabes-h-xl.jpg", 
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿En qué país se encuentra el Taj Mahal?",
+        "respuesta": "India",
+        "incorrecta1": "Egipto",
+        "incorrecta2": "Turquía",
+        "incorrecta3": "Indonesia",
+        "imagen": "https://humanidades.com/wp-content/uploads/2019/04/taj-mahal-e1588555199612.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es el país de origen del tango?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "España",
+        "incorrecta3": "Colombia",
+        "imagen": "https://www.elespectador.com/resizer/Zc33vMo4XLD4x2Xanhs9f8hiSJs=/1200x675/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/JVN3SIVURJAY7CUZ3KTOQC5PGM.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿En qué país se encuentra el Coliseo Romano?",
+        "respuesta": "Italia",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Grecia",
+        "incorrecta3": "Egipto",
+        "imagen": "https://historia.nationalgeographic.com.es/medio/2018/03/01/coliseo-romano_16022ed4_1280x853.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Países",
+        "pregunta": "¿Cuál es el país conocido como la cuna del Renacimiento?",
+        "respuesta": "Italia",
+        "incorrecta1": "Francia",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Inglaterra",
+        "imagen": "https://viajesoceanic.com/wp-content/uploads/2017/08/Duomo-Santa-Maria-del-Fiore.jpg",
+        "objectFit": "cover"
+    }
+]
